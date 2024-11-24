@@ -6,10 +6,15 @@ This repository contains 3D models that are released under the CC0 1.0 Universal
 ![Cowboy Hat](CowboyHat/CowboyHatPreview01.PNG)
 ### 2. Generator
 ![Generator](Generator/GeneratorPreview.PNG)
-4. PhoneBooth
-5. RoadBlock
-6. RusticIronGate
-7. SheriffBadge
-8. WallSconceLuminaire
+### 3. PhoneBooth
+![PhoneBooth](PhoneBooth/PhoneBoothPreview.PNG)
+### 4. RoadBlock
+![RoadBlock](RoadBlock/RoadBlockPreview.PNG)
+### 5. RusticIronGate
+![RusticIronGate](RusticIronGate/RusticIronGatePreview.PNG)
+### 6. SheriffBadge
+![SheriffBadge](SheriffBadge/SheriffBadgePreview.PNG)
+### 7. WallSconceLuminaire
+![WallSconceLuminaire](WallSconceLuminaire/WallSconceLuminairePreview.PNG)
 
 Feel free to use, modify, and distribute the models in any way you like.
