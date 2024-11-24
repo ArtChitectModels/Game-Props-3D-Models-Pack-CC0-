@@ -4,7 +4,8 @@ This repository contains 3D models that are released under the CC0 1.0 Universal
 ## Models
 ### 1. Cowboy Hat
 ![Cowboy Hat](CowboyHat/CowboyHatPreview01.PNG)
-3. Generator
+### 2. Generator
+![Generator](Generator/GeneratorPreview.PNG)
 4. PhoneBooth
 5. RoadBlock
 6. RusticIronGate
