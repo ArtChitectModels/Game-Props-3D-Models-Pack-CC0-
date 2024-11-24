@@ -2,7 +2,7 @@
 This repository contains 3D models that are released under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
 
 ## Models
-1. CowboyHat
+1. ![Cowboy Hat](CowboyHat/CowboyHatPreview01.PNG)
 2. Generator
 3. PhoneBooth
 4. RoadBlock
