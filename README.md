@@ -2,12 +2,13 @@
 This repository contains 3D models that are released under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
 
 ## Models
-1. ![Cowboy Hat](CowboyHat/CowboyHatPreview01.PNG)
-2. Generator
-3. PhoneBooth
-4. RoadBlock
-5. RusticIronGate
-6. SheriffBadge
-7. WallSconceLuminaire
+1. CowboyHat
+![Cowboy Hat](CowboyHat/CowboyHatPreview01.PNG)
+3. Generator
+4. PhoneBooth
+5. RoadBlock
+6. RusticIronGate
+7. SheriffBadge
+8. WallSconceLuminaire
 
 Feel free to use, modify, and distribute the models in any way you like.
