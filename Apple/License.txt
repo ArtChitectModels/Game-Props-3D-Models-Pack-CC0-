@@ -1,4 +1,4 @@
 Model: Apple
 Author: ArtChitectModels
-Source: https://github.com/ArtChitectModels/Game-Props-3D-Models-Pack-CC0-/tree/main/Apple
+Source: https://github.com/ArtChitectModels/Game-Props-3D-Models-Pack-CC0-/blob/main/Apple/License.txt
 License: Public Domain (CC0) - No attribution required
