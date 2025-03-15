@@ -22,7 +22,7 @@ This repository contains 3D models that are released under the CC0 1.0 Universal
 ![Apple](Apple/ApplePreview.png)
 ### 10. Dog
 ![Dog](Dog/DogPreview.png)
-### 10. ModernRifle
+### 11. ModernRifle
 ![ModernRifle](ModernRifle/ModernRiflePreview.png)
 
 Feel free to use, modify, and distribute the models in any way you like.
