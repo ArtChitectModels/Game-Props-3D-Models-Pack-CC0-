@@ -18,5 +18,7 @@ This repository contains 3D models that are released under the CC0 1.0 Universal
 ![WallSconceLuminaire](WallSconceLuminaire/WallSconceLuminairePreview.PNG)
 ### 8. AmmoBox
 ![AmmoBox](AmmoBox/AmmoBoxPreview.png)
+### 9. Apple
+![Apple](Apple/ApplePreview.png)
 
 Feel free to use, modify, and distribute the models in any way you like.
