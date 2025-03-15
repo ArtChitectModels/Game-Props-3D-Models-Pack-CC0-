@@ -24,5 +24,7 @@ This repository contains 3D models that are released under the CC0 1.0 Universal
 ![Dog](Dog/DogPreview.png)
 ### 11. ModernRifle
 ![ModernRifle](ModernRifle/ModernRiflePreview.png)
+### 11. ModernPistol
+![ModernPistol](ModernPistol/ModernPistolPreview.png)
 
 Feel free to use, modify, and distribute the models in any way you like.
