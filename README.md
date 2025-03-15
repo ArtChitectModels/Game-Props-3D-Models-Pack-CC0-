@@ -26,5 +26,7 @@ This repository contains 3D models that are released under the CC0 1.0 Universal
 ![ModernRifle](ModernRifle/ModernRiflePreview.png)
 ### 12. ModernPistol
 ![ModernPistol](ModernPistol/ModernPistolPreview.png)
+### 13. ModernRocketLauncher
+![ModernRocketLauncher](ModernRocketLauncher/ModernRocketLauncherPreview.png)
 
 Feel free to use, modify, and distribute the models in any way you like.
